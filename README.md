@@ -53,7 +53,7 @@ This project gives a foundational understanding of how bots work and how input/o
 This task helped me understand how Natural Language Processing plays a role in building interactive applications. I learned how user input can be tokenized and interpreted by machines and how rule-based systems can simulate conversation. Even without deep learning, simple bots can be built using conditional statements, keyword lists, and text preprocessing techniques.
 The project was a great introduction to NLP and conversational AI. It gave me hands-on practice with how real-world chatbots work at a basic level. I now feel confident in building simple bots, and I am eager to explore more advanced techniques like using intent classifiers, named entity recognition (NER), and transformer models for future chatbot upgrades.
 
-#ouput
+#output
 ![Image](https://github.com/user-attachments/assets/437eaa9e-4704-4744-832b-c58284bdac2d)
 
 
