@@ -14,28 +14,6 @@
 
 ---
 
-##  PROJECT DESCRIPTION
-
-This project is the third task under the CODTECH Python Internship Program. The goal of Task 3 is to build a **chatbot using Python and basic Natural Language Processing (NLP)** techniques. Chatbots are conversational agents that simulate human interaction and are widely used across industries such as customer support, healthcare, education, and personal productivity.
-In this task, the chatbot was built using simple rule-based logic and NLP techniques such as tokenization, lowercasing, and basic keyword matching. The chatbot is capable of handling a small set of predefined questions or commands and responds accordingly. While it doesn’t use advanced AI models, it serves as an ideal starting point for learning how human language can be processed and interpreted by machines.
-The main logic involves analyzing user input, processing the text, and matching it against known patterns to generate appropriate responses. Libraries like **NLTK (Natural Language Toolkit)** were used to tokenize text, remove stop words, and make simple word-based decisions.
-This project gives a foundational understanding of how bots work and how input/output-based logic can be enhanced with NLP to make applications smarter. It also highlights how user experience depends on the relevance and natural flow of responses in conversational systems.
-
----
-
-## TOOLS & TECHNOLOGIES USED
-- **Python** – For building chatbot logic  
-# CHATBOT DEVELOPMENT USING PYTHON & NLP
-
-**COMPANY**: CODTECH IT SOLUTIONS  
-**NAME**: MIRA RAJAK  
-**INTERN ID**: C  
-**DOMAIN**: Python Development  
-**DURATION**: 4 Weeks  
-**MENTOR**: Neela Santosh  
-
----
-
 ## PROJECT DESCRIPTION
 
 This project is the third task under the CODTECH Python Internship Program. The goal of Task 3 is to build a **chatbot using Python and basic Natural Language Processing (NLP)** techniques. Chatbots are conversational agents that simulate human interaction and are widely used across industries such as customer support, healthcare, education, and personal productivity.
@@ -48,7 +26,7 @@ This project gives a foundational understanding of how bots work and how input/o
 
 ---
 
-## 🛠TOOLS & TECHNOLOGIES USED
+## TOOLS & TECHNOLOGIES USED
 
 - **Python** – For building chatbot logic  
 - **NLTK** – For tokenization and basic NLP tasks  
