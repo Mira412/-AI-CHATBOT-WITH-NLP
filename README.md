@@ -36,7 +36,7 @@ This project gives a foundational understanding of how bots work and how input/o
 
 ---
 
-## 📌PROJECT DESCRIPTION
+## PROJECT DESCRIPTION
 
 This project is the third task under the CODTECH Python Internship Program. The goal of Task 3 is to build a **chatbot using Python and basic Natural Language Processing (NLP)** techniques. Chatbots are conversational agents that simulate human interaction and are widely used across industries such as customer support, healthcare, education, and personal productivity.
 
@@ -48,7 +48,7 @@ This project gives a foundational understanding of how bots work and how input/o
 
 ---
 
-## 🛠️ TOOLS & TECHNOLOGIES USED
+## 🛠TOOLS & TECHNOLOGIES USED
 
 - **Python** – For building chatbot logic  
 - **NLTK** – For tokenization and basic NLP tasks  
