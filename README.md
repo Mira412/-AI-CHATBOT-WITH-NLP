@@ -32,9 +32,7 @@ This project gives a foundational understanding of how bots work and how input/o
 - **NLTK** – For tokenization and basic NLP tasks  
 - **String Matching / Keyword Matching** – Core logic  
 - **Custom Dictionary / Rule-Based Logic** – To simulate response system  
-- *(Optional)*: **Tkinter** or **Flask** – For GUI or Web interface (if added)
 
----
 
 ## APPLICABILITY / USE CASES
 
